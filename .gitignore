@@ -1,0 +1,6 @@
+__pycache__
+.venv
+
+credentials.json
+token.json
+celerybeat-schedule.db
